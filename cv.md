@@ -46,7 +46,7 @@ Then I finished Saint-Petersburg University, Physical faculty in 2008 year.
 
 I work in WEB since 2004.
 
-[Codecademy.com:](https://www.codecademy.com/profiles/dinosavr): Introduction to HTML, Learn CSS.
+[Codecademy.com](https://www.codecademy.com/profiles/dinosavr): Introduction to HTML, Learn CSS.
 
 ## English: 
 I learned English language in school and then in University.
