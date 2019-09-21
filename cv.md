@@ -1,9 +1,9 @@
-# Resume
-## Name:
-**Alexandr Sidorov**
+# Alexandr Sidorov
 
 ## Contact Info:
-phone: +7-911-992-99-01, e-mail: promoabys@gmail.com
+* phone: +7-911-992-99-01 
+* e-mail: promoabys@gmail.com
+* GitHub: [dinosavr](https://github.com/dinosavr)
 
 ## Summary:
 I'd like improve my skills and find new interesting tasks. 
@@ -17,7 +17,11 @@ I was SEO, front-end developer, backend developer, content manager and founder o
 I learn all my life and that Ok. 
 
 ## Skills: 
-HTML, CSS, Jquery, Bootstrap, PHP, MySQL, PostgreSQL, WordPress, Joomla, 1C-Bitrix, Agile, Waterfall Model, Git, Photoshop
+* HTML, CSS, Jquery, Bootstrap
+* PHP, MySQL, PostgreSQL, 
+* WordPress, Joomla, 1C-Bitrix, 
+* Agile, Waterfall Model
+* Git, Photoshop
 
 ## Code examples (LATEST):
 [мопороховые.рф](http://xn--b1agtiaaafk5c0d.xn--p1ai/)
@@ -26,7 +30,9 @@ HTML, CSS, Jquery, Bootstrap, PHP, MySQL, PostgreSQL, WordPress, Joomla, 1C-Bitr
 
 [www.valuta24.ru](https://www.valuta24.ru/)
 
-
+```html
+<!-- These examples is not perfect, but It made by me. -->
+```
 ## Experience: 
 I have only real practice. 
 I take task, learn new theme and creat it.
