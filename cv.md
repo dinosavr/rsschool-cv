@@ -35,7 +35,7 @@ I learn all my life and that Ok.
 ```
 ## Experience: 
 I have only real practice. 
-I take task, learn new theme and creat it.
+I take task, learn new theme and create it.
 
 [Link to main part of my projects.](http://www.deko-design.ru/portfolio/web-projects)
 
@@ -46,6 +46,7 @@ Then I finished Saint-Petersburg University, Physical faculty in 2008 year.
 
 I work in WEB since 2004.
 
+[Codecademy.com:](https://www.codecademy.com/profiles/dinosavr): Introduction to HTML, Learn CSS.
 
 ## English: 
 I learned English language in school and then in University.
