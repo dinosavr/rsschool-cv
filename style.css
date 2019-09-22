@@ -1,0 +1,113 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 100%;
+  font-family: "Arial", "Helvetica", sans-serif;
+  color: #444444;
+
+  background: #e4e4e4;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+a {
+  color: #cf8a05;
+  text-decoration: none;
+
+  transition: color 300ms linear;
+}
+
+a:hover {
+  color: #ad7400;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: square;
+  line-height: 30px;
+}
+
+main,
+header,
+footer {
+  box-sizing: border-box;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 2em 3em;
+
+  background: #f2f2f2;
+}
+
+header {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+nav a {
+  margin-right: 30px;
+}
+
+footer {
+  border-top: 1px solid #dbdbdb;
+}
+
+header h1 {
+  float: left;
+
+  font-weight: normal;
+  font-size: 4em;
+  line-height: 1em;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+.highlight {
+  margin-bottom: 16px;
+
+  background-color: #ffffff;
+}
+
+.highlight pre {
+  padding: 16px;
+  overflow: auto;
+
+  font-size: 120%;
+  line-height: 1.45;
+
+  background-color: #f6f8fa;
+  border-radius: 3px;
+}
+
+pre code {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+
+  line-height: inherit;
+  word-wrap: normal;
+
+  background-color: transparent;
+  border: 0;
+}
+
+.highlight .c {
+  font-style: italic;
+  color: #999988;
+}
